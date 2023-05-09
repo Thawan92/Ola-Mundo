@@ -1,2 +1,4 @@
 # Exercicios-SENAI
- Exercicios e codigos do curso
+ Primeiro repositório do curso de Programação do SENAI
+
+
